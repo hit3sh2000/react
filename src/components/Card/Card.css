@@ -1,0 +1,29 @@
+/* .card{
+    border: 10px;
+    border-radius: 5px;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+.card-container{
+    margin-left: 2%;
+    border: 10px;
+    border-color: black;
+    background-color: aqua;
+
+} */
+
+.hi{
+
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    background-color: rgb(206, 241, 241);
+    
+    
+}
+.h{
+
+    margin: 19px;
+}
